@@ -1,6 +1,4 @@
 const test = "test";
 alert("Привіт!")
 
-dunke 
-bite
-blablabla
+cool2
