@@ -1,4 +1,12 @@
 const test = "test";
 alert("Привіт!")
 
-cool2
+cool
+2fgfd
+dfgf
+dfgdf
+sss
+s
+f
+
+ggg
